@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "CJPY": {
+      "address": "0x1cfa5641c01406aB8AC350dEd7d735ec41298372",
+      "startBlock": 17780940
+    }
+  }
+}
